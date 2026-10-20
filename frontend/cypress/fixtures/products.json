@@ -1,0 +1,4 @@
+{
+  "available": { "id": 5, "quantity": 1 },
+  "outOfStock": { "id": 3, "quantity": 1 }
+}
