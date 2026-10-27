@@ -21,7 +21,7 @@ Les tests sont dans `frontend/cypress/e2e/`.
 ## Installation
 
 ```bash
-git clone https://github.com/TON-PSEUDO/Eco-Bliss-Bath-V2.git
+git clone https://github.com/SamGuez/projet-10-Eco-bliss-bath.git
 cd Eco-Bliss-Bath-V2
 ```
 
